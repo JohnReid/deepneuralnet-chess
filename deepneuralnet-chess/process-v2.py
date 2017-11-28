@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 '''
 process-v2.py creates individual files for each .pgn file found in the working directory.
 This may be more useful than process.py.
